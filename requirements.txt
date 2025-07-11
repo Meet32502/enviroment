@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+diffusers
+scipy # Required by diffusers
+accelerate # Recommended for diffusers performance
+networkx
+matplotlib
+Pillow # For PIL.Image
+spacy
